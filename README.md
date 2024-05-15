@@ -19,5 +19,5 @@ Using commands on Discord that will be useful in-game:
 !setgroup: Change a player's rank on our FiveM service
 !demote: Fire a staff member from our FiveM service
 
-
+For Question join this discord server and create ticket
 https://discord.gg/Kn7McEJ2Z5
