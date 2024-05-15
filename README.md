@@ -1,3 +1,5 @@
+https://discord.gg/Kn7McEJ2Z5
+
 This Discord bot allows you to link your FiveM server to your Discord server.
 
 Features include:
@@ -16,3 +18,6 @@ Using commands on Discord that will be useful in-game:
 !unban: Unban a citizen from our services
 !setgroup: Change a player's rank on our FiveM service
 !demote: Fire a staff member from our FiveM service
+
+
+https://discord.gg/Kn7McEJ2Z5
